@@ -1,0 +1,8 @@
+ipython
+jupyter
+keras
+matplotlib
+pillow
+scipy
+tensorflow-gpu
+theano
